@@ -1,0 +1,10 @@
+Name: ReachFix
+Package: com.ps.reachfix
+Author: PoomSmart
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101)
+Section: Tweaks
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Reachability compatibility fix for iPod 5.
+Depiction: http://PoomSmart.github.io/repo/reachfix/index.html
